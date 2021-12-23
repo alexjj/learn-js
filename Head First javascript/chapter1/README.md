@@ -1,11 +1,11 @@
-Basics
+## Basics
 
 Each line ends in ;
 // is a comment
 Whitespace? who cares.
 
 
-Variables
+### Variables
 
 Always begin with `var`.
 
@@ -22,7 +22,7 @@ Everything in {}. Doesn't need `;` at the end of }.
 ```javascript
 while (scopes > 0) {
     document.write("Another scoop!"<br>);
-    scoopes = scoops - 1;
+    scoops = scoops - 1;
 }
 ```
 
